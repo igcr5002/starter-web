@@ -22,3 +22,7 @@ can be on any web servcer or even local
 file system.
 
 ## How to contribute
+
+## Copyright
+
+2021 Git.Training
